@@ -1,10 +1,6 @@
-# Hi there! 👋
+# 👋 Hi there!
 
-I'm a Computer Science student passionate about software development and continuously learning how modern applications are designed and built.
-
-Currently exploring backend engineering, full-stack development, and cloud technologies while working on personal projects to strengthen my skills and gain hands-on experience.
-
-I'm especially interested in understanding how different technologies work together to build reliable and maintainable software.
+I'm a Computer Science student passionate about software development, with a focus on backend engineering and full-stack development. I enjoy exploring how different technologies work together and building personal projects to strengthen my skills and gain hands-on experience.
 
 ## 🧰 Tech Stack
 
@@ -36,8 +32,17 @@ I'm especially interested in understanding how different technologies work toget
 
 ## 📚 Currently Learning
 
-* ☁️ AWS & Cloud Architecture
 * ⚙️ Backend Engineering with Go
+* 🏗️ System Design
+* 🔄 Distributed Systems
+* 🚀 DevOps & Infrastructure
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FaizalRezaa&show_icons=true&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizalRezaa&layout=compact&hide_border=true" height="165"/>
+</p>
 
 ## 🌐 Connect With Me
 
@@ -56,5 +61,5 @@ I'm especially interested in understanding how different technologies work toget
 ---
 
 <p align="center">
-  <i>Building, learning, and shipping — one project at a time.</i>
+  <i>Learning, building, and improving one project at a time.</i>
 </p>

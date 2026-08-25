@@ -26,16 +26,12 @@ I'm a Computer Science student passionate about software development, with a foc
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ## 📚 Currently Learning
 
 * ⚙️ Backend Engineering with Go
 * 🏗️ System Design
-* 🔄 Distributed Systems
-* 🚀 DevOps & Infrastructure
 
 ## 📊 GitHub Stats
 
@@ -47,9 +43,6 @@ I'm a Computer Science student passionate about software development, with a foc
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://github.com/FaizalRezaa">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/faizal-reza-abdillah/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>

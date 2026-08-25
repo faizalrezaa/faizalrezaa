@@ -28,11 +28,6 @@ I'm a Computer Science student passionate about software development, with a foc
   <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-## 📚 Currently Learning
-
-* ⚙️ Backend Engineering with Go
-* 🏗️ System Design
-
 ## 🌐 Connect With Me
 
 <p>

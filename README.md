@@ -1,55 +1,47 @@
 # Hi there! 👋
 
-I'm a Software Engineer enthusiast focused on building modern, scalable web applications and backend systems.
+I'm a Computer Science student passionate about software development and continuously learning how modern applications are designed and built.
 
-I enjoy turning ideas into clean, reliable, and maintainable software — from designing APIs and database schemas to building responsive user interfaces and deploying applications.
+Currently exploring backend engineering, full-stack development, and cloud technologies while working on personal projects to strengthen my skills and gain hands-on experience.
 
-### 🚀 Tech Stack
+I'm especially interested in understanding how different technologies work together to build reliable and maintainable software.
 
-**Frontend**
-- Next.js
-- React
-- TypeScript
-- Tailwind CSS
+## 🧰 Tech Stack
 
-**Backend**
-- Golang
-- REST API
-- Clean Architecture
+### Frontend
 
-**Database & Infrastructure**
-- PostgreSQL
-- Redis
-- Docker
-- Docker Compose
-
-### 🛠️ What I Build
-
-- Full-stack web applications
-- Backend services & REST APIs
-- Booking & payment systems
-- Database-driven applications
-- Scalable application architectures
-- Cloud-ready applications
-
-### 📚 Currently Learning
-
-- AWS & Cloud Architecture
-- Backend Engineering with Go
-- System Design
-- Distributed Systems
-- DevOps & Infrastructure
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FaizalRezaa&show_icons=true&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizalRezaa&layout=compact&hide_border=true" height="165"/>
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-### 🌐 Connect With Me
+### Backend & Database
 
-<p align="left">
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+### DevOps & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+## 📚 Currently Learning
+
+* ☁️ AWS & Cloud Architecture
+* ⚙️ Backend Engineering with Go
+
+## 🌐 Connect With Me
+
+<p>
   <a href="https://github.com/FaizalRezaa">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>

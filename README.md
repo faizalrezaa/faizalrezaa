@@ -1,56 +1,54 @@
-# Hi, I'm Faizal Reza 👋
+<div align="center">
 
-🎓 Informatics Engineering Student at **Universitas Brawijaya**
-💻 Backend-focused Software Developer
-☁️ Currently learning **Cloud & AWS**
-🚀 Interested in building scalable and maintainable web applications
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=888888&center=true&vCenter=true&width=440&lines=building+things.;breaking+things.;fixing+things." alt="Typing SVG" />
 
----
+</div>
 
-## 👨‍💻 About Me
+<br />
 
-I'm an Informatics Engineering student who enjoys building software and learning how systems work behind the scenes.
+I build backend systems and full-stack apps, mostly quiet work that just needs to run.
 
-My current focus is **backend development with Go**, database design, system architecture, and cloud infrastructure.
+<br />
 
-I also enjoy working across the stack, from designing interfaces with **Next.js** to building backend services and deploying applications with **Docker & AWS**.
+**Stack**
 
----
+<div align="left">
 
-## 🛠️ Tech Stack
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 
-### Backend
+</div>
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+<br />
 
-### Frontend
+**Elsewhere**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+<div align="left">
 
----
+<a href="https://www.linkedin.com/in/faizal-reza-abdillah/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://instagram.com/faizal.rezaa">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+</a>
 
-## 📊 GitHub Stats
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" height="165"/>
-</p>
+<br />
 
----
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=FaizalRezaa&show_icons=true&theme=default&hide_title=true&hide_border=true&text_color=555&icon_color=888&title_color=555" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FaizalRezaa&theme=default&hide_border=true&background=FFFFFF&stroke=EEEEEE&ring=888888&fire=888888&currStreakLabel=555555" width="48%" />
+</div>
 
-## 📫 Connect With Me
+<br />
 
-* 💼 LinkedIn: [Your LinkedIn]
-* 📧 Email: [Your Email]
-* 🌐 Portfolio: [Your Portfolio]
-
----
-
-<p align="center">
-  <i>Always learning. Always building.</i>
-</p>
+<div align="center">
+<sub>mostly here to ship, not to talk about it.</sub>
+</div>

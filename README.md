@@ -25,7 +25,6 @@ I'm a Computer Science student passionate about software development, with a foc
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ## 🌐 Connect With Me
